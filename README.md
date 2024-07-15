@@ -32,5 +32,6 @@ MONGODB_URI=mongodb+srv://your_user:your_password@your_cluster.mongodb.net/YourD
 After setting up the environment variables, navigate to `client` and start the server.
 
 ```sh
+cd client
 yarn dev
 ```
