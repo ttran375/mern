@@ -1,6 +1,6 @@
 # MERN
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ttran375/testing-rest-api)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ttran375/mern)
 
 The repository contains:
 
